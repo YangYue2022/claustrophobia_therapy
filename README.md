@@ -4,7 +4,7 @@
 
 演示视频：
 
-[点击这里查看视频]([https://serena-public-file.oss-cn-beijing.aliyuncs.com/claustrophobia_therapy_v3%20-%20base%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202021.3.37f1c1%20Personal%20_DX11_%202024-05-31%2014-19-39.mp4](https://serena-public-file.oss-cn-beijing.aliyuncs.com/video))
+[点击这里查看视频](https://serena-public-file.oss-cn-beijing.aliyuncs.com/claustrophobia_therapy_v3%20-%20base%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202021.3.37f1c1%20Personal%20_DX11_%202024-05-31%2014-19-39.mp4)
 
 视频截图：
 
